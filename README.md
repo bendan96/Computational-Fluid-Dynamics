@@ -19,3 +19,15 @@ computational-fluid-dynamics/
 │   ├── UCAV-Aerodynamics/     ← Vortex lift & breakdown on highly swept UCAV
 │   ├── Viscous-Channel-Flow/  ← Internal aerodynamics
 │   └── ...
+
+---
+
+# Contact
+
+## GitHub
+https://github.com/bendan96/
+
+## Email
+benjaminohidadaniel@gmail.com
+
+---
