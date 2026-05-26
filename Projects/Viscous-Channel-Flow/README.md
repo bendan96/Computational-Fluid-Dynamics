@@ -34,7 +34,7 @@ This project investigates **laminar fully developed flow** in a two-dimensional 
 - **[Full Discussion](./summary/discussion.md)**
 
 ### Supporting Folders
-- **`figures/`** — Velocity profiles, contours, residuals, mesh visuals
+- **[Figures](./figures)** — Velocity profiles, contours, residuals
 
 ---
 
