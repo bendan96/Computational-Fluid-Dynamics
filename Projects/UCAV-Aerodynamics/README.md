@@ -12,7 +12,7 @@ This project investigates the nonlinear aerodynamic characteristics of a highly 
 
 ---
 
-## 📊 Key Findings
+## 📊 Main Results
 
 - Strong vortex lift enhancement up to approximately 20° angle of attack.
 - Vortex breakdown begins beyond 22°, leading to stall and increased induced drag.
@@ -21,9 +21,7 @@ This project investigates the nonlinear aerodynamic characteristics of a highly 
 
 ---
 
-## 🔬 Discussion
-
-[→ Full Discussion Here](./summary/discussion.md)
+## Key Highlights
 
 Key highlights from the discussion:
 - The formation of primary and secondary vortices significantly delays stall.
@@ -35,8 +33,12 @@ Key highlights from the discussion:
 
 ## 📁 Project Contents
 
-- **Figures**: High-resolution plots of lift curve, drag polar, pressure contours, and streamlines.
-- **Data**: Experimental results and CFD force coefficients.
-- **Validation**: Comparison between wind tunnel data and simulations.
+### Summary Reports
+- **[Executive Summary](./summary/executive-summary.md)**
+- **[Key Findings](./summary/key-findings.md)**
+- **[Methodology Overview](./summary/methodology-overview.md)**
+- **[Validation](./validation/exp-vs-cfd-comparison.md)**
+- **[Full Discussion](./summary/discussions.md)**
 
----
+### Supporting Folders
+- **[Figures](./figures)** — Lift curve, Drag polar, Pitching moment curve, pressure contour, vortex distribution, streamlines
