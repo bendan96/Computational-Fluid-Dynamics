@@ -1,4 +1,7 @@
 # Computational Fluid Dynamics Portfolio
+<img width="755" height="542" alt="lift-curve" src="https://github.com/user-attachments/assets/c61be21c-cfcf-409e-9e2f-a326435f5b7b" />
+<img width="946" height="530" alt="pathlines-6deg-AoA" src="https://github.com/user-attachments/assets/b74c26f4-dfb0-405c-9392-3c65b0d5f6e3" />
+<img width="1201" height="912" alt="velocity-contours-full-domain" src="https://github.com/user-attachments/assets/3d0f3e0e-9bf6-44ce-b0bd-bb8592ba4366" />
 
 **Curated collection of my CFD projects in aerospace and fluid mechanics, covering external aerodynamics (vortex flows, delta wings, UCAVs) and internal aerodynamics (flow through channels and ducts). Features experimental validation, turbulence modelling, and detailed analysis using ANSYS Fluent. Continuously updated with new projects and analyses.**
 
